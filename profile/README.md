@@ -24,7 +24,18 @@ Our mission is to:
 > “We don’t just learn — we grow together.”
 
 ---
+## 🧑‍💻 Meet the Team
 
+| Role | Name | Contact | Socials |
+|:---|:---|:---|:---|
+| 👨‍💻 **Founder** | **Rudra Kabrawala** | [Email](mailto:rudrakabrawala@gmail.com) | [Portfolio](https://rudra-kabrawala-portfolio-verse.lovable.app) |
+| 🤝 **Founding Member** | **Vishwajeet Patil** | [Email](mailto:patilvishwajeet158@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vishwajeet-patil-88453324a) |
+| 🤝 **Founding Member** | **Madhav Gupta** | [Email](mailto:madhav87308@gmail.com) | [GitHub](https://github.com/madhavv-05) |
+| 🤝 **Founding Member** | **Yash Taneja** | [Email](mailto:yashtaneja2004@gmail.com) | [LinkedIn](https://www.linkedin.com/in/contactyashtaneja?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) |
+| 🤝 **Founding Member** | **Rasanath Kulkarni** | [Email](mailto:Rasanath@gmail.com) ||
+| 🤝 **Founding Member** | **Vanshika Jhala** | [Email](mailto:jhalavanshika3@gmail.com) |[LinkedIn](https://www.linkedin.com/in/vanshika-jhala-3076782aa/)|
+
+---
 ## 🧭 What You’ll Find Here
 
 | Category | Description | Link |
@@ -46,18 +57,6 @@ Our mission is to:
 We welcome contributions from everyone. You can add resources, share roadmaps, or fix broken links.
 
 📘 **[Start here → How to Contribute](https://github.com/campus-to-corporate-nmims/resources/blob/main/CONTRIBUTIONS/How_to_Contribute.md)**
-
----
-
-## 🧑‍💻 Meet the Team
-
-| Role | Name | Contact | Socials |
-|:---|:---|:---|:---|
-| 👨‍💻 **Founder** | **Rudra Kabrawala** | [Email](mailto:rudrakabrawala@gmail.com) | [Portfolio](https://rudra-kabrawala-portfolio-verse.lovable.app) |
-| 🤝 **Founding Member** | **Vishwajeet Patil** | [Email](mailto:patilvishwajeet158@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vishwajeet-patil-88453324a) |
-| 🤝 **Founding Member** | **Madhav Gupta** | [Email](mailto:madhav87308@gmail.com) | |
-| 🤝 **Founding Member** | **Yash Taneja** | [Email](mailto:yashtaneja2004@gmail.com) | |
-| 🤝 **Founding Member** | **Rasanath Kulkarni** | [Email](mailto:Rasanath@gmail.com) | |
 
 ---
 
