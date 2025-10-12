@@ -34,6 +34,9 @@ Our mission is to:
 | 🤝 **Founding Member** | **Yash Taneja** | [Email](mailto:yashtaneja2004@gmail.com) | [LinkedIn](https://www.linkedin.com/in/contactyashtaneja?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) |
 | 🤝 **Founding Member** | **Rasanath Kulkarni** | [Email](mailto:Rasanath@gmail.com) ||
 | 🤝 **Founding Member** | **Vanshika Jhala** | [Email](mailto:jhalavanshika3@gmail.com) |[LinkedIn](https://www.linkedin.com/in/vanshika-jhala-3076782aa/)|
+| 🤝 **Founding Member** | **Aaryan Uppal** | [Email](mailto:aaryanuppal.work@gmail.com) |[LinkedIn](https://www.linkedin.com/in/aaryan-uppal?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)|
+| 🤝 **Founding Member** | **Aditya Ghatia** | [Email](mailto:adityaghatia@gmail.com) |[LinkedIn](https://www.linkedin.com/in/adityaghatia/)|
+| 🤝 **Founding Member** | **Utsav Jha** | [Email](mailto:utsavjha31@gmail.com) |[LinkedIn](https://www.linkedin.com/in/utsav-jha-b58730347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)|
 
 ---
 ## 🧭 What You’ll Find Here
