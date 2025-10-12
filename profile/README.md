@@ -32,7 +32,7 @@ Our mission is to:
 | 🤝 **Founding Member** | **Vishwajeet Patil** | [Email](mailto:patilvishwajeet158@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vishwajeet-patil-88453324a) |
 | 🤝 **Founding Member** | **Madhav Gupta** | [Email](mailto:madhav87308@gmail.com) | [GitHub](https://github.com/madhavv-05) |
 | 🤝 **Founding Member** | **Yash Taneja** | [Email](mailto:yashtaneja2004@gmail.com) | [LinkedIn](https://www.linkedin.com/in/contactyashtaneja?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) |
-| 🤝 **Founding Member** | **Rasanath Kulkarni** | [Email](mailto:Rasanath@gmail.com) ||
+| 🤝 **Founding Member** | **Rasanath Kulkarni** | [Email](mailto:Rasanath@gmail.com) | [LinkedIn]( [LinkedIn](https://www.linkedin.com/in/contactyashtaneja?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))|
 | 🤝 **Founding Member** | **Vanshika Jhala** | [Email](mailto:jhalavanshika3@gmail.com) |[LinkedIn](https://www.linkedin.com/in/vanshika-jhala-3076782aa/)|
 | 🤝 **Founding Member** | **Aaryan Uppal** | [Email](mailto:aaryanuppal.work@gmail.com) |[LinkedIn](https://www.linkedin.com/in/aaryan-uppal?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)|
 | 🤝 **Founding Member** | **Aditya Ghatia** | [Email](mailto:adityaghatia@gmail.com) |[LinkedIn](https://www.linkedin.com/in/adityaghatia/)|
