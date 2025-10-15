@@ -55,6 +55,7 @@ Our mission is to:
 | 🧩 **Case Studies & HR Prep** | Case-solving, guesstimates, and interview question strategies | [Go to Folder](https://github.com/campus-to-corporate-nmims/resources/tree/main/07_Case_Studies) |
 | 🧑‍💼 **Courses & Certifications** | Curated Udemy & Coursera course links for skill specialization | [Go to Folder](https://github.com/campus-to-corporate-nmims/resources/tree/main/10_Courses_and_Certifications) |
 |  **PROJECT TEMPLATE** | Curated PROJECT TEMPLATED for EFFECTIVELY MAKING A PROJECT | [Go to Sheet](https://docs.google.com/spreadsheets/d/1avIX5461SB3lLKVJXjEp1J2QqlABHw-44eeUlARowVE/edit?usp=sharing) |
+| 🧠 **FAQs** | All your doubts and questions answered here | [Go to Folder]() |
 
 ---
 
