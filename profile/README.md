@@ -54,8 +54,7 @@ Our mission is to:
 | 📈 **Aptitude & Reasoning** | Logical reasoning, puzzles, and test preparation resources | [Go to Folder](https://github.com/campus-to-corporate-nmims/resources/tree/main/06_Aptitude_Reasoning) |
 | 🧩 **Case Studies & HR Prep** | Case-solving, guesstimates, and interview question strategies | [Go to Folder](https://github.com/campus-to-corporate-nmims/resources/tree/main/07_Case_Studies) |
 | 🧑‍💼 **Courses & Certifications** | Curated Udemy & Coursera course links for skill specialization | [Go to Folder](https://github.com/campus-to-corporate-nmims/resources/tree/main/10_Courses_and_Certifications) |
-
-https://docs.google.com/spreadsheets/d/1avIX5461SB3lLKVJXjEp1J2QqlABHw-44eeUlARowVE/edit?usp=sharing
+|  **PROJECT TEMPLATE** | Curated PROJECT TEMPLATED for EFFECTIVELY MAKING A PROJECT | [Go to Sheet](https://docs.google.com/spreadsheets/d/1avIX5461SB3lLKVJXjEp1J2QqlABHw-44eeUlARowVE/edit?usp=sharing) |
 
 ---
 
