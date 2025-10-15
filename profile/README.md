@@ -3,6 +3,8 @@
 # 🎓 Campus to Corporate — Student Resource Hub  
 ### Learn. Build. Grow. Together.
 
+## MPSTME NMIMS Shirpur
+
 > **A student-led initiative to bridge the gap between campus learning and corporate readiness.**  
 > Built by students, for students — to help you learn, grow, and prepare for your professional journey with clarity and community.
 
